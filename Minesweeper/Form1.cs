@@ -19,7 +19,7 @@ namespace Minesweeper
 
 		private void MineSweeper_Load(object sender, EventArgs e)
 		{
-
+			
 		}
 
 		private void difficultySetting_SelectedIndexChanged(object sender, EventArgs e)
